@@ -12,7 +12,7 @@ type FormState = {
   treatment_preference: string;
 };
 
-const FORM_ENDPOINT = "https://formspree.io/f/yourformid";
+const FORM_ENDPOINT = "https://formspree.io/f/xvzdoadk";
 
 const initialState: FormState = {
   name: "",
